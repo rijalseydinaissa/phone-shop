@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 const Hero = () => {
   const phoneRef = useRef(null);
   const textRef = useRef(null);
-
   useEffect(() => {
     // Animation pour faire apparaître le téléphone avec une rotation
     if (phoneRef.current) {

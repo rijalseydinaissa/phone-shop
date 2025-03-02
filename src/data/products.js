@@ -25,7 +25,7 @@ export const products = [
       brand: "Samsung",
       price: 1199,
       discountPrice: null,
-      image: "public/images/phones/téléchargement (2).jpeg",
+      image: "/public/images/phones/iphone-12-pro-max-graphite-hero-1.jpg",
       colors: ["Noir fantôme", "Vert", "Crème", "Lavande"],
       storage: ["256GB", "512GB", "1TB"],
       specs: {
@@ -44,7 +44,7 @@ export const products = [
       brand: "Google",
       price: 899,
       discountPrice: 799,
-      image: "public/images/phones/téléchargement (2).jpeg",
+      image: "/public/images/phones/iphone-12-pro-max-graphite-hero-1.jpg",
       colors: ["Noir obsidienne", "Blanc neige", "Vert sauge"],
       storage: ["128GB", "256GB", "512GB"],
       specs: {
