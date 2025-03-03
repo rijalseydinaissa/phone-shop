@@ -75,7 +75,6 @@ const Card = ({ product }) => {
             <span className="text-xl font-bold text-blue-600">{price}Fcfa</span>
           )}
         </div>
-        
         {/* Étoiles */}
         <div className="flex items-center mb-4">
           {[...Array(5)].map((_, i) => (
